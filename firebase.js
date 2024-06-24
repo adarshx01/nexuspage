@@ -17,13 +17,7 @@ import { getFirestore } from "firebase/firestore";
 //   measurementId: process.env.REACT_APP_MEASUREMENT_ID,
 // };
 const firebaseConfig = {
-  apiKey: "AIzaSyANxz8WBqptSITooMqQcQZQKulBRRIOIfI",
-  authDomain: "magnathon-f4e37.firebaseapp.com",
-  projectId: "magnathon-f4e37",
-  storageBucket: "magnathon-f4e37.appspot.com",
-  messagingSenderId: "207520828809",
-  appId: "1:207520828809:web:4da3391bec9b51f7bea558",
-  measurementId: "G-6EQ5NKGKY5"
+
 };
 
 // Initialize Firebase
